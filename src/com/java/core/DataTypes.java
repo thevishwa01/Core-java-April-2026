@@ -8,12 +8,12 @@ public class DataTypes {
 		byte d=120;
 		float e=25.124f;
 		double f=212.12654;
-		System.out.println(""+a);
-		System.out.println(""+b);
-		System.out.println(""+c);
-		System.out.println(""+d);
-		System.out.println(""+e);
-		System.out.println(""+f);
+		System.out.println("int value"+a);
+		System.out.println("short value"+b);
+		System.out.println("long value"+c);
+		System.out.println("byte value"+d);
+		System.out.println("float value"+e);
+		System.out.println("double value"+f);
 		
 	}
 
