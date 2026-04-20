@@ -27,4 +27,21 @@ public void Division() {
 	System.out.println("Division is "+Div);
 	
 }
+//-----------------------X----Void Parameterized---------
+private void AddPara(int x,int y) {
+	int add=x+y;
+	System.out.println("The value of AddPara "+add);
+	
+}
+
+public static void main(String[] args) {
+	MethodClassOperation op=new MethodClassOperation();
+	op.Subtraction();
+	op.Addition();
+	op.Multiplicatio();
+	op.Division();
+	
+//--------------------X----Void Parameterized---------
+	op.AddPara(30,75);
+}
 }
