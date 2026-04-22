@@ -1,4 +1,4 @@
-package com.java.core;
+package VoidMethod;
 
 public class SingleClassMethod {
   public  void Addition () {
@@ -20,13 +20,7 @@ public class SingleClassMethod {
 	  System.out.println("Multiplication is "+Mul);
 	
 }
-  public static void main(String[] args) {
-	    SingleClassMethod SM=new SingleClassMethod();
-		SM.Addition();
-		SM.Subtraction();
-		SM.Multiplication();
-	}
+
 }
 
-//Instead of Creating different classes to the perform method action done in one class 
 

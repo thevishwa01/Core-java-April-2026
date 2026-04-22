@@ -14,7 +14,7 @@ public class Calculator {
 		System.out.println("Enter value of b :");
 		int b=sc.nextInt();
 		
-		int Sum=a-b;
+		int Sum=a+b;
 		System.out.println("The sum is : "+Sum);
 	}
 }
