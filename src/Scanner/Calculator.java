@@ -13,6 +13,7 @@ public class Calculator {
 		int a=sc.nextInt();
 		System.out.println("Enter value of b :");
 		int b=sc.nextInt();
+		sc.close();
 		
 		int Sum=a+b;
 		System.out.println("The sum is : "+Sum);

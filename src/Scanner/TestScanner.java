@@ -15,6 +15,8 @@ public class TestScanner {
 	System.out.println("Enter the value of b : ");
 	int b=sc.nextInt();
 	
+	sc.close();
+	
 	int Sum=a+b;
 	System.out.println("The Sum is : "+Sum);
 	
