@@ -8,17 +8,17 @@ public class StudentGrad {
 		
 		Scanner s=new Scanner(System.in);
 		
-	System.out.println("Check if the number is Divible or not");
+	System.out.println("Check if the Student is Graduated or not ");
 		
-	int a=s.nextInt();
+	Double Percentage=s.nextDouble();
 	
 	s.close();
 	
-		if (a%2==0) {
-			System.out.println("It is Divisible by 2");
+		if (Percentage>=40) {
+			System.out.println("The Student is Graduated  ✓ ");
 		}
 		else {
-			System.out.println("No it is not 53");
+			System.out.println("The Student is Failed X ");
 		}
 	}
 }
