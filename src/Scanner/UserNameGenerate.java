@@ -17,7 +17,7 @@ public class UserNameGenerate {
 		System.out.println("Enter the Year of Birth : ");
 // int Year=yob % 100;--To get the last @ Digits of the Year of Birth 
 		int yob = sc.nextInt(); sc.close();
-
+					
 		int Year = yob % 100;
 		String Username = fname + lname + Year;
 		System.out.println("The User name is " + Username);
