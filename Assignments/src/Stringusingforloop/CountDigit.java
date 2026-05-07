@@ -1,4 +1,4 @@
-package Constructor;
+package Stringusingforloop;
 
 public class CountDigit {
 	
