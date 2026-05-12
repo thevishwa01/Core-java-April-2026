@@ -27,6 +27,7 @@ public class CountUpperandLowerCase {
 			if (Character.isUpperCase(cht)) {
 				count++;
 			} else {
+				
 				if (Character.isLowerCase(cht)) {
 					lcount++;
 				}
