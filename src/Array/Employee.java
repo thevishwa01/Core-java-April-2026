@@ -6,7 +6,7 @@ public class Employee {
 	public String EmployeeName;
 	public String Designation;
 	public int salary;
-	public String Empty;
+	
 	
 
 }
