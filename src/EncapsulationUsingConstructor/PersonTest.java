@@ -12,8 +12,8 @@ public class PersonTest {
 		System.out.println("Person Age : "+age);
 		
 		p.setName("Jane");
-	String UpdatedName=p.getName();
-		System.out.println("Updated name : "+UpdatedName);
+//	String UpdatedName=p.getName();
+		System.out.println("Updated name : "+p.getName());
 		
 		
 	}
