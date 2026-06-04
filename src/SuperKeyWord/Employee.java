@@ -9,8 +9,8 @@ public class Employee {
 
 	}
 
-	public Employee(int joinedYEar) {
-		System.out.println("Joining Year is " + joinedYEar);
+	public Employee(String Date) {
+		System.out.println("Joining Date is " + Date);
 
 	}
 

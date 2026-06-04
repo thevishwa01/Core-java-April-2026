@@ -11,7 +11,7 @@ public static void main(String[] args) {
 	int Fact=1;
 	
 	for (int i = 1; i <=n; i++) {
-		Fact*=i;
+		Fact=Fact*i;
 		
 	}
 	System.out.println("Factrol is "+Fact);
