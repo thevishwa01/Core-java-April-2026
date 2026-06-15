@@ -22,7 +22,7 @@ public class Exp1 {
 
 		}
 
-		System.out.println(result);
+		System.out.println(result);    
 
 		System.out.println("======================");
 
