@@ -1,9 +1,5 @@
 package Array.BasicArrayQuestions1to25;
 
-import java.util.Arrays;
-import java.util.Set;
-import java.util.TreeSet;
-
 public class Que15 {
 	public static void main(String[] args) {
 
