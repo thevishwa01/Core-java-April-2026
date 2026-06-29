@@ -1,4 +1,4 @@
-package Stream.API.BasicsQuestions;
+package Collectiona.Que200;
 
 import java.util.ArrayList;
 import java.util.List;
